@@ -1,6 +1,6 @@
 # Asset Trading App
 
-A simplified real-time trading engine built with **Laravel** and **Vue 3 **, demonstrating
+A real-time trading app built with **Laravel** and **Vue 3**, demonstrating
 financial data integrity, concurrency safety, and real-time order matching.
 
 This project implements a minimal crypto-style exchange for **BTC / ETH vs USD** with
@@ -87,7 +87,7 @@ locked balances, full-match order execution, and live updates.
 - Composer
 - Node.js 18+
 - MySQL
-- Pusher account (or local credentials)
+- Pusher
 
 ### Installation
 

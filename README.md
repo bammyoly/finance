@@ -1,4 +1,4 @@
-# Finance Trading Assessment
+# Asset Trading App
 
 A simplified asset (BTC & ETH) trading app built with Laravel and Vue.
 

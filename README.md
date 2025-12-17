@@ -91,6 +91,7 @@ locked balances, full-match order execution, and live updates.
 
 ### Installation
 
+
 ```bash
 git clone https://github.com/bammyoly/finance.git
 cd finance
@@ -104,3 +105,7 @@ php artisan migrate
 
 npm run dev
 php artisan serve
+...
+php artisan queue:work
+
+
